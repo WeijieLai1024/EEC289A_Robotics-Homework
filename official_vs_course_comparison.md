@@ -71,7 +71,7 @@ Our course code is a **Go2-focused assignment pipeline**.
 
 **Readable course version**
 - Exposes the real source files
-- Makes it much easier to explain each module in a 50-minute lecture
+- Makes it much easier to explain each module in a structured walkthrough
 
 ## What stayed intentionally close to the official Go1 joystick task
 
